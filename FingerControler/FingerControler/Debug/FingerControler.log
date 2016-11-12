@@ -1,0 +1,20 @@
+﻿Der Buildvorgang wurde am 5/3/2014 10:27:53 PM gestartet.
+     1>Projekt "D:\Progg\mkalte666\FingerControler\FingerControler\FingerControler.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         "Debug\FingerControler.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       ClCompile:
+         Alle Ausgaben sind aktuell.
+       ManifestResourceCompile:
+         Alle Ausgaben sind aktuell.
+       Link:
+         Alle Ausgaben sind aktuell.
+       Manifest:
+         Alle Ausgaben sind aktuell.
+       FinalizeBuildStatus:
+         Die Datei "Debug\FingerControler.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "Debug\FingerControler.lastbuildstate".
+     1>Die Erstellung des Projekts "D:\Progg\mkalte666\FingerControler\FingerControler\FingerControler.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:00.13
